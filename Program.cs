@@ -11,7 +11,6 @@ public class Program {
 
         int fee = 0;
 
-       
         if (age < 18) {
             if (membershipType == "basic") {
                 fee = 15;
@@ -31,7 +30,6 @@ public class Program {
                 fee = 35;
             }
         }
-
         Console.WriteLine("Your membership fee is: $" + fee);
     }
 }
