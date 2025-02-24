@@ -2,7 +2,7 @@
 
 using System;
 
-public class Program
+public class Ticket
 {
 
 	public static void Main() {
