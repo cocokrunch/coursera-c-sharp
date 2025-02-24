@@ -5,7 +5,7 @@ public class Loop2
 {
     public static void Main()
     {
-        	int number = 5;
+        int number = 5;
 		int factorial = 1;
 
 		while (number > 0) {
